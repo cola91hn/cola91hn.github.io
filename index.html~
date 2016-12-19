@@ -16,7 +16,7 @@
     <!-- ===========================
     SITE TITLE
     =========================== -->
-    <title>Jared Chu - Full Stack Developer</title>
+    <title>RypponLee - Software engineer</title>
 
     <!-- ===========================
     FAVICONS
@@ -74,7 +74,7 @@
             <div class="cv-title">
                 <div class="row">
                     <div class="col-sm-7">
-                        <h1>Jared Chu</h1>
+                        <h1>Ryppon Lee</h1>
                     </div>
                     <div class="col-sm-5 text-right dl-share">
                         <!-- AddToAny BEGIN -->
@@ -100,22 +100,22 @@
             <div class="row">
                 <div class="col-sm-4">
                     <ul class="list-unstyled">
-                        <li><a href="skype:hienboy90?chat"><span class="social fa fa-skype"></span>Skype</a>
+                        <li><a href="skype:tungbi.lt?chat"><span class="social fa fa-skype"></span>Skype</a>
                         </li>
-                        <li><a href="tel:+841246336333"><span class="social fa fa-mobile"></span>+84 124 633 6333</a>
+                        <li><a href="tel:+84949036766"><span class="social fa fa-mobile"></span>+84 94 903 6766</a>
                         </li>
-                        <li><a href="mailto:jared@vmcsoft.com"><span class="social fa fa-envelope-o"></span>jared@vmcsoft.com</a>
+                        <li><a href="mailto:letung91@gmail.com"><span class="social fa fa-envelope-o"></span>letung91@gmail.com</a>
                         </li>
                     </ul>
                 </div><!-- social 1st col end-->
 
                 <div class="col-sm-4">
                     <ul class="list-unstyled">
-                        <li><a href="https://blog.jaredchu.com/"><span class="social fa fa-wordpress"></span>Blog</a>
+                        <li><a href="https://codesimple.info"><span class="social fa fa-wordpress"></span>Blog</a>
                         </li>
-                        <li><a href="https://github.com/jaredchu"><span class="social fa fa-github"></span>Github</a>
+                        <li><a href="https://github.com/cola91hn"><span class="social fa fa-github"></span>Github</a>
                         </li>
-                        <li><a href="http://stackoverflow.com/users/2348832/jared-chu?tab=profile"><span
+                        <li><a href="https://codesimple.info"><span
                                 class="social fa fa-stack-overflow"></span>StackOverFlow</a>
                         </li>
                     </ul>
