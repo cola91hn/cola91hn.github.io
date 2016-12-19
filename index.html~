@@ -156,8 +156,8 @@
 			I have have been developing Android apps over 4 years.</br>
 			I have a team of all Experienced Developers for  Website Development / Mobile Application ( IOS  & ANDROID ) Development, Design Mobile and Web, Logo... over 3 			years. </br> I love to drinking with friends and reading books. And 
                     I never hesitate to learn new language or framework, I always think that
-                    the more I learn, the more I realize how much I don't know.
-Thank you for considering my profile.
+                    the more I learn, the more I realize how much I don't know.</br></br>
+Thank you for considering my profile!
                 </p>
                 <p class="signature">RYPPON LEE</p>
             </div><!--info end-->
@@ -336,6 +336,14 @@ Thank you for considering my profile.
                     <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60"
                          aria-valuemin="0" aria-valuemax="100" style="width: 80%">
                         <span class="sr-only">80% Complete</span>
+                    </div>
+                </div><!--skill end-->
+
+		<p>Swift</p>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                         aria-valuemax="100" style="width: 50%">
+                        <span class="sr-only">50% Complete</span>
                     </div>
                 </div><!--skill end-->
 
