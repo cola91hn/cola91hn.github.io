@@ -172,22 +172,27 @@
 
                 <div class="row">
                     <div class="col-md-9">
-                        <h4>DNIIT</h4>
+                        <h4>HUBT & Aptech</h4>
                         <p class="sub"><a
-                                href="http://www.niit.com/india/training/personals/college-students/information-technology">2
-                            Years Diploma course from NIIT</a>
+                                href="http://hubt.edu.vn/">4
+                            Years Diploma course from HUBT</a>
+                        </p>
+			<p class="sub"><a
+                                href="http://aptech.vn/">2
+                            Years Diploma course from Aptech</a>
                         </p>
                         <ul>
-                            <li>Java Certification</li>
+			    <li>College Degree (BSEng)</li>
+			    <li>Aptech Certificate</li>
+                            <li>Java Technology</li>
+                            <li>Android Technology</li>
                             <li>.NET Technology</li>
-                            <li>Oracle Technology</li>
-                            <li>Python training</li>
                             <li>Computer Science</li>
                         </ul>
                     </div>
 
                     <div class="year col-md-3">
-                        <p>2010-2012</p>
+                        <p>2009-2013</p>
                     </div>
                 </div><!--Education & Certification 1 end-->
 
