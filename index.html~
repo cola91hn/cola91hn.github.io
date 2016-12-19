@@ -74,7 +74,7 @@
             <div class="cv-title">
                 <div class="row">
                     <div class="col-sm-7">
-                        <h1>Ryppon Lee</h1>
+                        <h1>RYPPON LEE</h1>
                     </div>
                     <div class="col-sm-5 text-right dl-share">
                         <!-- AddToAny BEGIN -->
@@ -111,11 +111,11 @@
 
                 <div class="col-sm-4">
                     <ul class="list-unstyled">
-                        <li><a href="https://codesimple.info"><span class="social fa fa-wordpress"></span>Blog</a>
+                        <li><a href="https://codesimple.info/"><span class="social fa fa-wordpress"></span>Blog</a>
                         </li>
                         <li><a href="https://github.com/cola91hn"><span class="social fa fa-github"></span>Github</a>
                         </li>
-                        <li><a href="https://codesimple.info"><span
+                        <li><a href="https://codesimple.info/"><span
                                 class="social fa fa-stack-overflow"></span>StackOverFlow</a>
                         </li>
                     </ul>
@@ -123,13 +123,13 @@
 
                 <div class="col-sm-4">
                     <ul class="list-unstyled">
-                        <li><a href="https://www.facebook.com/Hiencm.NightOwl"><span
+                        <li><a href="https://www.facebook.com/tunglt.it"><span
                                 class="social fa fa-facebook"></span>Facebook</a>
                         </li>
-                        <li><a href="https://500px.com/jaredchu"><span
+                        <li><a href="https://500px.com/tunglt.it"><span
                                 class="social fa fa-500px"></span>500px</a>
                         </li>
-                        <li><a href="https://vmcsoft.com/"><span class="social fa fa-heart"></span>VMCSOFT</a>
+                        <li><a href="https://codesimple.info/"><span class="social fa fa-heart"></span>3TSoft</a>
                         </li>
                     </ul>
                 </div><!-- social 3rd col end-->
@@ -156,7 +156,7 @@
                     I never hesitate to learn new language or framework, I always think that
                     the more I learn, the more I realize how much I don't know.
                 </p>
-                <p class="signature">JARED CHU</p>
+                <p class="signature">RYPPON LEE</p>
             </div><!--info end-->
         </div><!--personal statement end-->
 
@@ -339,7 +339,7 @@
 
                 <div class="row">
                     <div class="col-md-9">
-                        <h4>Fullstack Developer</h4>
+                        <h4>Software Engineer</h4>
                         <p class="sub">
                             Freelance
                         </p>
