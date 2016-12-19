@@ -230,13 +230,13 @@
 		<div class="row">
                     <div class="col-md-9">
                         <h4>Java/Android Developer</h4>
-                        <p class="sub">
-                            CMC Software
-                        </p>
-                        <p><a
+                        <p class="sub"><a
                         href="http://www.cmcsoft.com/">
-                            Công ty TNHH Giải pháp Phần mềm CMC
+                            CMC Software
                         </a></p>
+                        <p>
+                            Công ty TNHH Giải pháp Phần mềm CMC
+                        </p>
                         <ul>
                             <li>
                                 Android app development
@@ -244,7 +244,7 @@
                             <li>
                                 Java development
                             </li>
-				<li>
+			    <li>
                                 Dojotoolkit development
                             </li>
                         </ul>
@@ -272,6 +272,9 @@
                             </li>
                             <li>
                                 Java development
+                            </li>
+				<li>
+                                Smartfoxserver development
                             </li>
                         </ul>
                     </div>
@@ -375,6 +378,9 @@
                 </a></p>
 		<p><a href="http://www.smartfoxserver.com/">
                     Smartfoxserver
+                </a></p>
+		<p><a href="https://www.xamarin.com/">
+                    Xamrin
                 </a></p>
             </div>
         </div>
