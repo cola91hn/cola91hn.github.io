@@ -234,6 +234,34 @@ Thank you for considering my profile!
                     <div class="col-md-9">
                         <h4>Java/Android Developer</h4>
                         <p class="sub"><a
+                        href="http://newwindsoft.com/index.php/">
+                            Newwind Software
+                        </a></p>
+                        <p>
+                            Công ty cổ phần phần mềm NewWindSoftware chính thức thành lập ngày 01/04/2013, với tập thể lãnh đạo đam mê và sáng tạo, đội ngũ nhân viên nhiệt huyết và chuyên nghiệp, chúng tôi hướng đến trở thành một công ty chuyên về giải pháp và công nghệ hàng đầu tại Việt Nam.
+                        </p>
+                        <ul>
+                            <li>
+                                Android app development
+                            </li>
+                            <li>
+                                Java development
+                            </li>
+			    <li>
+                                Dojotoolkit development
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="year col-md-3">
+                        <p>02/2014 - 08/2015</p>
+                    </div>
+                </div><!--Job 1 end-->
+
+		<div class="row">
+                    <div class="col-md-9">
+                        <h4>Java/Android Developer</h4>
+                        <p class="sub"><a
                         href="http://www.cmcsoft.com/">
                             CMC Software
                         </a></p>
@@ -333,7 +361,7 @@ Thank you for considering my profile!
 
 		<p>Java</p>
                 <div class="progress">
-                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60"
+                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="80"
                          aria-valuemin="0" aria-valuemax="100" style="width: 80%">
                         <span class="sr-only">80% Complete</span>
                     </div>
@@ -341,7 +369,7 @@ Thank you for considering my profile!
 
 		<p>Swift</p>
                 <div class="progress">
-                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0"
                          aria-valuemax="100" style="width: 50%">
                         <span class="sr-only">50% Complete</span>
                     </div>
@@ -349,7 +377,7 @@ Thank you for considering my profile!
 
                 <p>PHP/HTML/CSS/JS</p>
                 <div class="progress">
-                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0"
                          aria-valuemax="100" style="width: 50%">
                         <span class="sr-only">50% Complete</span>
                     </div>
@@ -357,7 +385,7 @@ Thank you for considering my profile!
 
 		<p>C#/.NET</p>
                 <div class="progress">
-                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0"
                          aria-valuemax="100" style="width: 40%">
                         <span class="sr-only">40% Complete</span>
                     </div>
@@ -365,7 +393,7 @@ Thank you for considering my profile!
         
                 <p>C/C++</p>
                 <div class="progress">
-                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60"
+                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40"
                          aria-valuemin="0" aria-valuemax="100" style="width: 40%">
                         <span class="sr-only">40% Complete</span>
                     </div>
